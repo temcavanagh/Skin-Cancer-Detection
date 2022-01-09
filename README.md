@@ -27,7 +27,7 @@ The ResNet50 model consists of 48 convolutional layers, 1 MaxPool layer and 1 Av
 
 **Model 2: MobileNet V2**
 
-The MobileNet V2 model is a convolutional neural network architecture that is opti- mized for performance on mobile devices. The network architecture is optimised for speed and memory; and contains residual blocks [3]. The resulting training perfor- mance and classification performance are shown below.
+The MobileNet V2 model is a convolutional neural network architecture that is opti- mized for performance on mobile devices. The network architecture is optimised for speed and memory; and contains residual blocks [3]. The resulting training performance and classification performance are shown below.
 
 <img width="372" alt="Fig 6" src="https://user-images.githubusercontent.com/50828923/148700222-590c53a1-bf97-4871-8186-775da79f6810.png">
 
